@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 /vacancies_by_year.csv
+/vacancies.csv
 /split_files/vacancies_by_2007.csv
 /split_files/vacancies_by_2008.csv
 /split_files/vacancies_by_2009.csv
